@@ -8,7 +8,4 @@ public class Entity {
     public static String method3(String[] args) {
         return "method3";
     }
-    public static void method2(){
-
-    }
 }
