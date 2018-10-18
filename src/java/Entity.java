@@ -1,5 +1,5 @@
 public class Entity {
-    public static void method(){
+    public static void method2(){
 
     }
 }
