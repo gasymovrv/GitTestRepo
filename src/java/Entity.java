@@ -1,11 +1,11 @@
 public class Entity {
-    public static String method1(String[] args) {
-        return "method1";
+    public  String method1(String s, int a) {
+        return "method1_s="+s+"_int="+a;
     }
-    public static String method2(String[] args) {
-        return "method2";
+    public  String method2(String s, int a) {
+        return "method2_s="+s+"_int="+a;
     }
-    public static String method3(String[] args) {
-        return "method3";
+    public  String method3(String s, int a) {
+        return "method3_s="+s+"_int="+a;
     }
 }
