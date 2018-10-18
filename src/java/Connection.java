@@ -1,5 +1,5 @@
 public class Connection {
-    private void connect(String[] args) {
-
+    public String connect() {
+        return "connecting";
     }
 }
