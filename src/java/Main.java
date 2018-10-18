@@ -3,4 +3,5 @@ public class Main {
         System.out.println("еще один коммит в новую ветку");
         System.out.println("не надо мне тут бла-бла-бла");
     }
+    public static void util(){}
 }
