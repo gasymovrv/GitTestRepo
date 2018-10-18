@@ -24,5 +24,6 @@ public class Main {
     }
     public static void util(){
         System.out.println("печатаем из develop");
+        System.out.println("печатаем из master");
     }
 }
