@@ -22,6 +22,8 @@ public class Main {
             }
         }
         util();
+        Feature1 feature1 = new Feature1();
+        feature1.doing();
     }
     public static void util(){
         System.out.println("печатаем из develop");
