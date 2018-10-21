@@ -21,6 +21,7 @@ public class Main {
                 e.printStackTrace();
             }
         }
+        util();
     }
     public static void util(){
         System.out.println("печатаем из develop");
