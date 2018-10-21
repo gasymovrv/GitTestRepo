@@ -22,9 +22,14 @@ public class Main {
             }
         }
         util();
+        Feature1 feature1 = new Feature1();
+        feature1.doing();
+        Feature2 feature2= new Feature2();
+        feature2.doing();
     }
     public static void util(){
         System.out.println("печатаем из develop");
         System.out.println("печатаем из master");
+        System.out.println("bug-fix");
     }
 }
