@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 public class Main {
     public static void main(String[] args) {
         System.out.println("еще один коммит в новую ветку");
-        System.out.println("не надо мне тут бла-бла-бла");
+        System.out.println("не надо мне тут бла-бла-бла - тут типо исправил ошибку");
         Class entityClass = Entity.class;
         Method[] methods = entityClass.getMethods();
         Connection connection = new Connection();
@@ -31,5 +31,6 @@ public class Main {
         System.out.println("печатаем из develop");
         System.out.println("печатаем из master");
         System.out.println("bug-fix");
+        System.out.println("что-то в develop");
     }
 }
