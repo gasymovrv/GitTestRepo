@@ -31,5 +31,6 @@ public class Main {
         System.out.println("печатаем из develop");
         System.out.println("печатаем из master");
         System.out.println("bug-fix");
+        System.out.println("что-то в develop");
     }
 }
