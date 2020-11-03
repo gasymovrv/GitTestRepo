@@ -10,7 +10,7 @@ public class Main {
         Connection connection = new Connection();
         System.out.println(connection.connect());
         int i = 0;
-        String s = "string";
+        String s = "string master commit 1";
         for (Method m :
                 methods) {
             try {
