@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 public class Main {
     public static void main(String[] args) {
         System.out.println("еще один коммит в новую ветку");
-        System.out.println("не надо мне тут бла-бла-бла - тут типо исправил ошибку");
+        System.out.println("не надо мне тут бла-бла-бла - тут типо исправил ошибку feature1 commit 1");
         Class entityClass = Entity.class;
         Method[] methods = entityClass.getMethods();
         Connection connection = new Connection();
