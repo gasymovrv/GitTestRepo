@@ -8,4 +8,7 @@ public class Feature1 {
     public void doing3() {
         System.out.println("какой-то доп. функционал №1");
     }
+    public void doing4() {
+        System.out.println("какой-то доп. функционал №2");
+    }
 }
